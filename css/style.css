@@ -9,7 +9,7 @@ html {
   }
 
 header, footer {
-  background-color: #56008f;
+  background-color: #9683ec;
   text-align: center;
 / * min-width: 500px; * /
 }
@@ -47,7 +47,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #56008f;
+  color: #7b2cbf;
   padding: 10px 0px 10px 10px;
 }
 
@@ -154,7 +154,7 @@ img {
 }
 
 a {
-  color: #56008f;
+  color: #8e008b;
 }
 
 footer {
