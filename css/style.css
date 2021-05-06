@@ -97,7 +97,7 @@ img {
   }
 
 .project {
-  box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%);  
+  box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%);
   width: 100%;
 
 }
@@ -115,6 +115,7 @@ img {
   padding-top: 10px;
   width: 20px;
   height: auto;
+  color: #60308c;
 }
 
 .mins {
